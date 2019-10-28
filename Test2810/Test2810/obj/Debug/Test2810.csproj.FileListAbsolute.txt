@@ -1,0 +1,7 @@
+C:\Users\Uyen Ho\source\repos\Test2810\Test2810\bin\Debug\Test2810.exe.config
+C:\Users\Uyen Ho\source\repos\Test2810\Test2810\bin\Debug\Test2810.exe
+C:\Users\Uyen Ho\source\repos\Test2810\Test2810\bin\Debug\Test2810.pdb
+C:\Users\Uyen Ho\source\repos\Test2810\Test2810\obj\Debug\Test2810.csprojAssemblyReference.cache
+C:\Users\Uyen Ho\source\repos\Test2810\Test2810\obj\Debug\Test2810.csproj.CoreCompileInputs.cache
+C:\Users\Uyen Ho\source\repos\Test2810\Test2810\obj\Debug\Test2810.exe
+C:\Users\Uyen Ho\source\repos\Test2810\Test2810\obj\Debug\Test2810.pdb
